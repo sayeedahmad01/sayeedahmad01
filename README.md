@@ -4,7 +4,7 @@ i am Sayeed Ahmad .Aspiring  with data science/analytics and softare engineer .<
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im.sayeed._?igsh=MXAwcjg3aGE3b2lnaw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayeed-ahmad-924133248?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon]
-(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayeedahmad2003@gmail.com) 
+(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayeedahmad2003@gmail.com) [![email]
 (https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SAYEED AHMAD) [![email]
 
 # 💻 Tech Stack:
