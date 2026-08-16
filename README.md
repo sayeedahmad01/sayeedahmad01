@@ -1,5 +1,20 @@
-# 💫 About Me:
-i am Sayeed Ahmad .Aspiring  with data science/analytics and softare engineer .<br>Languages & libraries : python , c++, java script ,numpy ,pandas,matplotib.<br>Framework : scikit-learn, flask<br>databases :  Mysql , postgreSQL<br>Cloud & devOps : Git/Github , AWS...
+# 💫 About Me: 
+# Hi, I'm Sayeed Ahmad 👋
+
+**Aspiring Data Scientist | Data Analyst | Software Engineer**
+
+I'm passionate about **Data Science, Machine Learning, Analytics, and Software Development**. I enjoy building practical projects, solving problems with data, and continuously learning new technologies.
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, C++, JavaScript
+**Data Science:** NumPy, Pandas, Matplotlib
+**Machine Learning:** Scikit-learn
+**Backend:** Flask
+**Databases:** MySQL, PostgreSQL
+**Cloud & DevOps:** AWS, Git, GitHub
+
+🚀 Currently focused on building **real-world projects in Data Science, Machine Learning, and Software Engineering**.
 
 
 ## 🌐 Socials:
