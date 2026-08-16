@@ -17,11 +17,7 @@ I'm passionate about **Data Science, Machine Learning, Analytics, and Software D
 🚀 Currently focused on building **real-world projects in Data Science, Machine Learning, and Software Engineering**.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im.sayeed._igsh=MXAwcjg3aGE3b2lnaw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sayeedahmad2003@gmail.com)
-
-
+ 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming
